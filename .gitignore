@@ -1,5 +1,7 @@
 __pycache__/
 *.pyc
+.deps/
+.build/
 backend/
 build/
 .wtivo-env.sh
